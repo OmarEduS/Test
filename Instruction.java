@@ -27,4 +27,5 @@ public class Instruction {
     public void printInst() {
         System.out.println(name + " " + hex);
     }
+    //Branch Comment
 }
